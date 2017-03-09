@@ -1,0 +1,1 @@
+celery -A nmapscan worker -l info -B
